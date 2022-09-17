@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dasboos
-- 👀 I’m interested in creating software and machines that help solve the world's energy challenges.
-- 🌱 I’m currently learning JavaScript and Solar Array System Design.
-- 💞️ I’m looking to collaborate on Electric and Autonomous Vehicle Technology.
+- 👀 I’m interested in creating software and machines that help solve the world's energy problems.
+- 🌱 I’m currently learning Solar Array System Design and Javascript/Full Stack Dev.
+- 💞️ I’m looking to collaborate on any and all Electric/Autonomous Vehicle Facets and Technologies.
 - 📫 You can reach me at www.mobilizedengineering.com 
 
 <!---
